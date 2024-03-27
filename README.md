@@ -1,2 +1,2 @@
 # sucklessRice
-My personal linux desktop enviorment suckless tools. 
+My personal linux tiling enviorment and tools by suckless. 
